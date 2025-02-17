@@ -10,7 +10,7 @@ php code */
     
 
 //string
-/*    $name = "Heather Scheer";
+/*  $name = "Heather Scheer";
     $food = "Pizza";
     $email = "nuttycoders@gmail.com";
 //integer
@@ -50,7 +50,7 @@ $total = $quanity * $price;
 // % is the modulus operator which is the remainder of something if you have other than 0 it's odd
 
 
-/*    $x = 10;
+/*  $x = 10;
     $y = 3;
     $z = null;
 
